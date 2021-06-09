@@ -1,5 +1,8 @@
-/vendor/
-node_modules/
+public_html/vendor/
+public_html/node_modules/
+public_html/admin/vendor/
+public_html/admin/node_modules/
+public_html/public/dist
 npm-debug.log
 yarn-error.log
 
